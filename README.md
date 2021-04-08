@@ -1,0 +1,2 @@
+# ComposerAutoload
+Autoload challenge - WCS
